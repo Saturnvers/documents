@@ -7,7 +7,7 @@ We will deploy lens protocol and follow module on polygon chain first.With the d
 
 # Project Details
 ### Architecture
-![](architecture.png)
+![](architect.png)
 
 ### Saturn-ring
 Saturn-ring is the front-end presentation layer of 
